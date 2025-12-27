@@ -6,12 +6,12 @@
 ---
 
 ### Professional Profile
-I am a final-year B.Sc. [cite_start]Information Technology student at Thakur Shyamnarayan Degree College[cite: 30]. [cite_start]My passion lies in bridging the gap between technical code and creative design, with a professional background ranging from full-stack application development to executing business development strategies[cite: 17, 18]. I recently completed a 3-month Business Development internship at PriyaQubit to focus on my final degree requirements and technical project completion.
+I am a final-year B.Sc. [cite_start]Information Technology student at Thakur Shyamnarayan Degree College[cite: 30]. [cite_start]My passion lies in bridging the gap between technical code and creative design, with a professional background ranging from full-stack application development to executing business development strategies[cite: 17, 18]. [cite_start]I recently completed a 3-month Business Development internship at PriyaQubit to focus on my final degree requirements and technical project completion[cite: 27].
 
 ### Key Information
-* **Current Focus**: Finalizing my B.Sc. IT degree while optimizing the architecture of the Sparsh Jewellery Swap Platform and other technical projects.
+* **Current Focus**: Finalizing my B.Sc. [cite_start]IT degree while optimizing the architecture of the Sparsh Jewellery Swap Platform and other technical projects[cite: 30].
 * [cite_start]**Collaboration**: Seeking opportunities to contribute to projects involving Software Development, Front-End Design, or IT Product Innovation[cite: 23].
-* **Learning Journey**: Advancing expertise in Power BI for data analytics and exploring advanced AI-powered content creation frameworks.
+* [cite_start]**Learning Journey**: Advancing expertise in Power BI for data analytics and exploring advanced AI-powered content creation frameworks[cite: 13].
 * [cite_start]**Knowledge Areas**: Proficient in Java, MySQL, and the development of user-centric applications like Movie Recommendation Systems[cite: 19, 21].
 * [cite_start]**Creative Background**: Experience at the intersection of technology and creativity, having served on both the CSI Graphics Team and the College Magazine Committee[cite: 19].
 
@@ -21,10 +21,8 @@ I am a final-year B.Sc. [cite_start]Information Technology student at Thakur Shy
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **Sparsh** | Java, Firebase | An AI-powered jewellery customization and swap platform designed for seamless user interaction. |
-| **QuT** | Java | A trial room management system developed to optimize retail efficiency and customer experience. |
+| **Sparsh** | Java, Firebase | [cite_start]An AI-powered jewellery customization and swap platform designed for seamless user interaction[cite: 19]. |
 | **Movie Recommendation** | Python, MySQL | [cite_start]A system utilizing data-driven logic to provide personalized entertainment suggestions[cite: 19]. |
-| **LeaseBrain** | Web Tech | A dedicated web application project focused on streamlining lease management processes. |
 
 ---
 
