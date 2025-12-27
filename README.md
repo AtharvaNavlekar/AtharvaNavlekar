@@ -5,7 +5,7 @@
 
 ---
 
-### Professional Profile
+### Profile
 I am a final-year B.Sc. Information Technology student at Thakur Shyamnarayan Degree College. My passion lies in bridging the gap between technical code and creative design, with a professional background ranging from full-stack application development to executing business development strategies. I recently completed a 3-month Business Development internship at PriyaQubit to focus on my final degree requirements and technical project completion.
 
 ### Key Information
