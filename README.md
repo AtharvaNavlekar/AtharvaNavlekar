@@ -47,11 +47,7 @@ I am a final-year B.Sc. Information Technology student at Thakur Shyamnarayan De
 
 ### GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtharvaNavlekar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Atharva Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=AtharvaNavlekar&theme=dark&hide_border=false" alt="Atharva Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaNavlekar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
