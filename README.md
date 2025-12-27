@@ -6,14 +6,14 @@
 ---
 
 ### Professional Profile
-I am a final-year B.Sc. Information Technology student at Thakur Shyamnarayan Degree College[cite: 30]. [cite_start]My passion lies in bridging the gap between technical code and creative design, with a professional background ranging from full-stack application development to executing business development strategies[cite: 17, 18]. [cite_start]I recently completed a 3-month Business Development internship at PriyaQubit to focus on my final degree requirements and technical project completion[cite: 27].
+I am a final-year B.Sc. Information Technology student at Thakur Shyamnarayan Degree College. My passion lies in bridging the gap between technical code and creative design, with a professional background ranging from full-stack application development to executing business development strategies. I recently completed a 3-month Business Development internship at PriyaQubit to focus on my final degree requirements and technical project completion.
 
 ### Key Information
-* **Current Focus**: Finalizing my B.Sc. [cite_start]IT degree while optimizing the architecture of the Sparsh Jewellery Swap Platform and other technical projects[cite: 30].
-* [cite_start]**Collaboration**: Seeking opportunities to contribute to projects involving Software Development, Front-End Design, or IT Product Innovation[cite: 23].
-* [cite_start]**Learning Journey**: Advancing expertise in Power BI for data analytics and exploring advanced AI-powered content creation frameworks[cite: 13].
-* [cite_start]**Knowledge Areas**: Proficient in Java, MySQL, and the development of user-centric applications like Movie Recommendation Systems[cite: 19, 21].
-* [cite_start]**Creative Background**: Experience at the intersection of technology and creativity, having served on both the CSI Graphics Team and the College Magazine Committee[cite: 19].
+* **Current Focus**: Finalizing my B.Sc. IT degree while optimizing the architecture of the Sparsh Jewellery Swap Platform and other technical projects.
+* **Collaboration**: Seeking opportunities to contribute to projects involving Software Development, Front-End Design, or IT Product Innovation.
+* **Learning Journey**: Advancing expertise in Power BI for data analytics and exploring advanced AI-powered content creation frameworks.
+* **Knowledge Areas**: Proficient in Java, MySQL, and the development of user-centric applications like Movie Recommendation Systems.
+* **Creative Background**: Experience at the intersection of technology and creativity, having served on both the CSI Graphics Team and the College Magazine Committee.
 
 ---
 
@@ -21,8 +21,8 @@ I am a final-year B.Sc. Information Technology student at Thakur Shyamnarayan De
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **Sparsh** | Java, Firebase | [cite_start]An AI-powered jewellery customization and swap platform designed for seamless user interaction[cite: 19]. |
-| **Movie Recommendation** | Python, MySQL | [cite_start]A system utilizing data-driven logic to provide personalized entertainment suggestions[cite: 19]. |
+| **Sparsh** | Java, Firebase | An AI-powered jewellery customization and swap platform designed for seamless user interaction. |
+| **Movie Recommendation** | Python, MySQL | A system utilizing data-driven logic to provide personalized entertainment suggestions. |
 
 ---
 
@@ -57,7 +57,7 @@ I am a final-year B.Sc. Information Technology student at Thakur Shyamnarayan De
 ---
 
 ### Connect & Contact
-* [cite_start]**Location**: Mumbai, Maharashtra, India [cite: 15]
-* [cite_start]**LinkedIn**: [linkedin.com/in/atharvanavlekar](https://www.linkedin.com/in/atharvanavlekar) [cite: 7]
-* [cite_start]**Portfolio**: [thenavlekar.netlify.app](https://thenavlekar.netlify.app/) [cite: 8]
-* [cite_start]**Email**: thenavlekar@gmail.com [cite: 5]
+* **Location**: Mumbai, Maharashtra, India 
+* **LinkedIn**: [linkedin.com/in/atharvanavlekar](https://www.linkedin.com/in/atharvanavlekar) 
+* **Portfolio**: [thenavlekar.netlify.app](https://thenavlekar.netlify.app/) 
+* **Email**: thenavlekar@gmail.com
