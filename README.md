@@ -6,44 +6,78 @@
 ---
 
 ### Professional Profile
-I am a final-year B.Sc. Information Technology student at Thakur Shyamnarayan Degree College. My passion lies in bridging the gap between technical code and creative design, with hands-on experience ranging from full-stack application development to business development execution. I recently completed a 3-month Business Development internship at PriyaQubit while focusing on my final-year technical projects.
+I am a final-year B.Sc. Information Technology student at Thakur Shyamnarayan Degree College. My focus is on building practical, user-centric software systems while blending technical development with creative problem-solving. I have experience across full-stack development and business development, including a 3-month internship at PriyaQubit completed alongside my final-year academic projects.
 
 ---
 
 ### Key Information
-- **Current Focus**: Completing my B.Sc. IT degree and optimizing the architecture of the Sparsh Jewellery Swap Platform.
+- **Current Focus**: Completing my B.Sc. IT degree and improving the architecture of the Sparsh Jewellery Swap Platform.
 - **Collaboration**: Open to opportunities in Software Development, Front-End Engineering, and IT Product Innovation.
-- **Learning Journey**: Advancing skills in Power BI for data analytics and exploring AI-powered content creation workflows.
-- **Core Skills**: Java, MySQL, Python, and development of user-centric systems such as recommendation engines.
-- **Creative Experience**: Active contributor to the CSI Graphics Team and College Magazine Committee.
+- **Learning Journey**: Strengthening data analytics skills using Power BI and exploring AI-assisted content and system design workflows.
+- **Core Expertise**: Java, MySQL, Python, and development of recommendation-based systems.
+- **Creative Experience**: Contributor to the CSI Graphics Team and College Magazine Committee.
 
 ---
 
 ### Featured Projects
 
 | Project | Tech Stack | Description |
-|-------|-----------|-------------|
-| **Sparsh** | Java, Firebase | AI-powered jewellery customization and swap platform focused on seamless user experience. |
-| **Movie Recommendation System** | Python, MySQL | Data-driven system delivering personalized movie recommendations. |
+|------|-----------|------------|
+| **Sparsh** | Java, Firebase | Jewellery customization and swap platform focused on smooth user interaction and scalability. |
+| **Movie Recommendation System** | Python, MySQL | Data-driven system that delivers personalized movie suggestions based on user behavior. |
 
 ---
 
 ### Technical Stack
 
 **Languages**
-HTML5, CSS3, JavaScript, Java, C, C++
+- HTML5  
+- CSS3  
+- JavaScript  
+- Java  
+- C  
+- C++
 
 **Frameworks & Libraries**
-React, React Native, Node.js, Express.js, Bootstrap, Tailwind CSS, Streamlit, Chart.js, WordPress, Storybook
+- React  
+- React Native  
+- Node.js  
+- Express.js  
+- Bootstrap  
+- Tailwind CSS  
+- Streamlit  
+- Chart.js  
+- WordPress  
+- Storybook  
 
 **Databases & Cloud**
-MySQL, SQLite, MongoDB, Firebase, Netlify
+- MySQL  
+- SQLite  
+- MongoDB  
+- Firebase  
+- Netlify  
 
 **Design Tools**
-Canva, Sketch, SketchUp, Framer
+- Canva  
+- Sketch  
+- SketchUp  
+- Framer  
 
 **DevOps & Utilities**
-Git, GitHub, Docker, Postman, Selenium, Sentry, Jira, Notion, Power BI, Apache Maven, Gradle, ESLint, Prettier, Babel
+- Git  
+- GitHub  
+- Docker  
+- Postman  
+- Selenium  
+- Sentry  
+- Jira  
+- Notion  
+- Power BI  
+- Apache Maven  
+- Gradle  
+- ESLint  
+- Prettier  
+- Babel  
 
 ---
 
@@ -59,7 +93,7 @@ Git, GitHub, Docker, Postman, Selenium, Sentry, Jira, Notion, Power BI, Apache M
 
 ---
 
-### Contact
+### Connect & Contact
 - **Location**: Mumbai, Maharashtra, India  
 - **LinkedIn**: https://www.linkedin.com/in/atharvanavlekar  
 - **Portfolio**: https://thenavlekar.netlify.app  
