@@ -6,7 +6,7 @@
 ---
 
 ### Professional Profile
-I am a final-year B.Sc. [cite_start]Information Technology student at Thakur Shyamnarayan Degree College[cite: 30]. [cite_start]My passion lies in bridging the gap between technical code and creative design, with a professional background ranging from full-stack application development to executing business development strategies[cite: 17, 18]. [cite_start]I recently completed a 3-month Business Development internship at PriyaQubit to focus on my final degree requirements and technical project completion[cite: 27].
+I am a final-year B.Sc. Information Technology student at Thakur Shyamnarayan Degree College[cite: 30]. [cite_start]My passion lies in bridging the gap between technical code and creative design, with a professional background ranging from full-stack application development to executing business development strategies[cite: 17, 18]. [cite_start]I recently completed a 3-month Business Development internship at PriyaQubit to focus on my final degree requirements and technical project completion[cite: 27].
 
 ### Key Information
 * **Current Focus**: Finalizing my B.Sc. [cite_start]IT degree while optimizing the architecture of the Sparsh Jewellery Swap Platform and other technical projects[cite: 30].
