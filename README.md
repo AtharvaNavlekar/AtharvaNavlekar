@@ -100,7 +100,7 @@ My background spans product development, UI/UX design, and business strategy, gi
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏦 Bhosale And Co — CA Firm Website</h3>
+      <h3>🏦 CA Firm Website</h3>
       <p>A production-ready website for a financial services firm in Vasai East. Built with React, TypeScript, and Vite, featuring a Gemini-powered financial assistant chatbot and a fully responsive layout.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
